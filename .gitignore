@@ -1,0 +1,11 @@
+hero_mongo(Vue)
+web
+
+admin/node_modules
+server/node_modules
+server/Config.js
+server/public
+
+PWD.txt
+.vscode
+
